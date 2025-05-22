@@ -1,0 +1,4 @@
+**/.venv
+airflow.db
+**/logs
+**/output
